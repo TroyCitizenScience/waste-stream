@@ -5,12 +5,17 @@ Urban and suburban areas are full of garbage, which can be found in dumpsters, c
 ## Food and Kitchen Waste
 
  * [Eggshells Into Fertilizer](http://www.wikihow.com/Fertilize-Soil-With-Eggshells)
-
+ * [Coffee Grounds as a Substrate for Growing Mushrooms](http://www.stormthecastle.com/terrarium/how-to-grow-mushrooms.htm)
 
 ## Electronic Waste
 
-*  [E-Waste to Makerspace](https://e-wastetomakerspace.wikispaces.com/E-Waste+to+Makerspace) - Include plans for a 3D printer and a plant watering system.
-*  [Floppy Disk Planter](http://www.instructables.com/id/Floppy-Disk-Planter/)
+* [E-Waste to Makerspace](https://e-wastetomakerspace.wikispaces.com/E-Waste+to+Makerspace) - Include plans for a 3D printer and a plant watering system.
+* [Floppy Disk Planter](http://www.instructables.com/id/Floppy-Disk-Planter/)
+
+## Packaging Waste
+
+* [Styrofoam as Mealworm Fodder](http://www.csmonitor.com/Environment/2015/0930/Could-mealworms-solve-our-plastic-problem)
+
  
 ## How do I contribute to this list?
 
