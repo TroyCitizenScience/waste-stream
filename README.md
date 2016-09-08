@@ -10,6 +10,7 @@ Urban and suburban areas are full of garbage, which can be found in dumpsters, c
 ## Electronic Waste
 
 *  [E-Waste to Makerspace](https://e-wastetomakerspace.wikispaces.com/E-Waste+to+Makerspace) - Include plans for a 3D printer and a plant watering system.
+*  [Floppy Disk Planter](http://www.instructables.com/id/Floppy-Disk-Planter/)
  
 ## How do I contribute to this list?
 
