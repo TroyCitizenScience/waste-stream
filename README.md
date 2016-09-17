@@ -16,6 +16,13 @@ Urban and suburban areas are full of garbage, which can be found in dumpsters, c
 
 * [Styrofoam as Mealworm Fodder](http://www.csmonitor.com/Environment/2015/0930/Could-mealworms-solve-our-plastic-problem)
 
+## Construction Waste
+
+* [Greenhouses out of Old Windows](http://www.globalgardenfriends.com/2013/11/how-to-build-a-miniature-greenhouse-from-old-windows/)
+
+## How to Obtain Waste Materials
+
+* [Habitat for Humanity ReStore](http://www.habitat.org/restores) - Stores that sell secondhand building materials
  
 ## How do I contribute to this list?
 
