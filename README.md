@@ -6,6 +6,7 @@ Urban and suburban areas are full of garbage, which can be found in dumpsters, c
 
  * [Eggshells Into Fertilizer](http://www.wikihow.com/Fertilize-Soil-With-Eggshells)
  * [Coffee Grounds as a Substrate for Growing Mushrooms](http://www.stormthecastle.com/terrarium/how-to-grow-mushrooms.htm)
+ * [Beer Out of Old Bread](http://www.toastale.com/toast-ale-recipe/) - Currently being produced commerically by a company in the UK, which shares its recipe.
 
 ## Electronic Waste
 
